@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/lazy8055/lazy8055/main/hello_world.gif" align="center"  height=300 />
+<img src="https://raw.githubusercontent.com/lazy8055/lazy8055/main/profile.jpeg" align="center"   width=70% />
 </div>  
   
 
