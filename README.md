@@ -6,13 +6,11 @@
 ### <div align="center">I'm Arun, a student interested in programming, networking and cyber security 👨‍💻 </div>  
   
 
-- 🔭 I’m currently studying 12th standard  
+- 🔭 I’m currently completed 12th standard  
   
 
 -  🐍 I’m currently learning python  
-  
-
-- 📗 I'm currently reading "Black Hat Python" book  
+   
   
 
 - ⚡ Fun fact: I visit many website like linkedin, stackoverflow ... regularly but not post anything😛😅  
