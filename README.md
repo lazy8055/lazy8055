@@ -6,14 +6,14 @@
 ### <div align="center">I'm Arun, a student interested in programming, networking and cyber security 👨‍💻 </div>  
   
 
-- 🔭 I’m currently completed 12th standard  
+- 🔭 I’m currently studying in Anna University CEG campus, Chennai 
   
 
 -  🐍 I’m currently learning python  
    
   
 
-- ⚡ Fun fact: I visit many website like linkedin, stackoverflow ... regularly but not post anything😛😅  
+- ⚡ :)  
   
 
 <br/>  
