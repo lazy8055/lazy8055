@@ -9,7 +9,7 @@
 - 🔭 I’m currently studying in Anna University CEG campus, Chennai 
   
 
--  🐍 I’m currently learning python  
+-  🐍 I’m currently learning C
    
   
 
