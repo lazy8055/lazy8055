@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Arun, a student interested in programming, networking and cyber security 👨‍💻 </div>  
+### <div align="center">I'm Arun, a student interested in programming, networking 👨‍💻 </div>  
   
 
 - 🔭 I’m currently studying in Anna University CEG campus, Chennai 
   
 
--  🐍 I’m currently learning C
+-  🐍 I’m currently learning Java
    
   
 
